@@ -42,8 +42,7 @@ digital-literacy-project/
 │   └── codeshef-task.png
 │
 ├── task-4-email-etiquette/
-│   ├── professional-email-1.md
-│   ├── professional-email-2.md
+│   ├── professional-emails.md
 │   └── social-media-checklist.md
 │
 └── task-5-cybercrime/
@@ -55,7 +54,7 @@ digital-literacy-project/
 
 ## Module Summaries
 
-### ### **Task 1: Digital Literacy Awareness Infographic** (Module 1)
+### **Task 1: Digital Literacy Awareness Infographic** (Module 1)
 Created a comprehensive one-page visual infographic covering five key topics: what digital literacy is, useful digital tools for students, safe internet practices, professional online presence, and email etiquette. The infographic uses clear visual hierarchy and color coding for easy understanding.
 
 **Deliverable:** Infographic <br>
@@ -182,9 +181,9 @@ All work in this repository is original and completed independently. External so
 
 ## Contact Information
 
-**Student Email:** [nandini.25bhi@vitbhopal.ac.in]  
-**LinkedIn:** https://www.linkedin.com/in/nandini-gupta-55347b381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-**GitHub:** github.com/nandini10056
+**Student Email:** [nandini.25bhi10056@vitbhopal.ac.in]  
+**LinkedIn:** https://www.linkedin.com/in/nandini-gupta-55347b381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app <br>
+**GitHub:** (https://github.com/nandini10056/digital-literacy-project.git)
 
 ---
 
