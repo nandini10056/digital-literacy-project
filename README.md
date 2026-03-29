@@ -1,15 +1,15 @@
 # Digital Literacy Portfolio Project
 
 **Course:** CSE0001 - Digital Literacy  
-**Student Name:** Nandini Gupta 
-**Registration Number:** 25BHI10056 
-**Branch:** Btech Computer Science(Health Informatics) 
+**Student Name:** Nandini Gupta<br> 
+**Registration Number:** 25BHI10056 <br>
+**Branch:** Btech Computer Science(Health Informatics)<br> 
 **Academic Year:** 2025-2026  
 **Institution:** VIT Bhopal University
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This repository contains my complete Digital Literacy Portfolio, created as part of the CSE0001 course. As a Student Digital Ambassador, I have worked through five comprehensive tasks covering essential digital skills: creating awareness content, building professional profiles, exploring coding platforms, mastering email etiquette, and understanding cybercrime prevention.
 
@@ -17,7 +17,7 @@ The project demonstrates practical competency in navigating the digital world sa
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 digital-literacy-project/
@@ -28,38 +28,38 @@ digital-literacy-project/
 │   └── Project_Report.pdf
 │
 ├── task-1-presentation/
-│   ├── digital-literacy-infographic.svg
+│   ├── digital-literacy-infographic.jpg
 │   └── README.md
 │
 ├── task-2-portfolio/
-│   ├── portfolio-setup-guide.md
-│   ├── SCREENSHOTS-INSTRUCTIONS.md
-│   └── [screenshots: github-profile.png, linkedin-profile.png, kaggle-profile.png]
+│   ├── github-profile.png
+│   ├── linkedin-profile.png
+│   └── kaggle-profile.png
 │
 ├── task-3-platforms/
-│   ├── google-form-quiz.md
-│   └── platforms-reflection.md
+│   ├── google-form-questions.png
+│   ├── google-form-responses.png
+│   └── codeshef-task.png
 │
 ├── task-4-email-etiquette/
-│   ├── professional-emails.md
-│   ├── social-media-checklist.md
-│   └── communication-scenario.md
+│   ├── professional-email-1.md
+│   ├── professional-email-2.md
+│   └── social-media-checklist.md
 │
 └── task-5-cybercrime/
     ├── casestudy.md
-    ├── prevention-checklist.md
-    └── personal-reflection.md
+    └── prevention-checklist.md
 ```
 
 ---
 
-## 📚 Module Summaries
+## Module Summaries
 
-### **Task 1: Digital Literacy Awareness Infographic** (Module 1)
+### ### **Task 1: Digital Literacy Awareness Infographic** (Module 1)
 Created a comprehensive one-page visual infographic covering five key topics: what digital literacy is, useful digital tools for students, safe internet practices, professional online presence, and email etiquette. The infographic uses clear visual hierarchy and color coding for easy understanding.
 
-**Deliverable:** SVG infographic + reflection write-up  
-**Tool Used:** Scalable Vector Graphics (SVG)
+**Deliverable:** Infographic <br>
+**Tool Used:** Canva
 
 ---
 
@@ -72,7 +72,7 @@ Built professional profiles across three key platforms that employers and academ
 
 Each platform serves a distinct purpose in my academic and professional journey. Profile README created with personal introduction and learning goals.
 
-**Deliverable:** Platform setup guide + profile screenshots + reflection on future usage
+**Deliverable:** Platform setup guide + profile screenshots 
 
 ---
 
@@ -80,17 +80,17 @@ Each platform serves a distinct purpose in my academic and professional journey.
 Explored two categories of essential digital tools:
 
 **Part A - Coding Practice:**
-- Platform: HackerRank
-- Challenge Completed: "Solve Me First" (Easy - Python)
+- Platform: Codechef
+- Challenge Completed: "Print Factorial" (Easy - Java)
 - Purpose: Building algorithmic thinking and competitive programming skills
 
 **Part B - Google Workspace Collaboration:**
 - Created a 5-question "Digital Literacy Awareness Quiz" using Google Forms
 - Quiz covers password security, 2FA, GitHub usage, phishing awareness, and email etiquette
 - Integrated with Google Sheets for automatic response collection
-- **Quiz Link:** [To be added: forms.gle/your-link]
+- **Quiz Link:** [https://docs.google.com/forms/d/e/1FAIpQLSd-XSz4TqSC0TL89rzeGD4801IkTa9s75mTtwL2e-_EhWdFVQ/viewform?usp=dialog]
 
-**Deliverable:** Coding challenge proof + Google Form + reflection on academic utility
+**Deliverable:** Coding challenge proof + Google Form 
 
 ---
 
@@ -132,14 +132,14 @@ Created a comprehensive "Stay Safe Online" guide with 12 specific, actionable ti
 
 **Personal Reflection:** Documented surprising insights from research and committed to implementing 2FA on all accounts + weekly transaction monitoring.
 
-**Deliverable:** Case study + 12-point prevention checklist + personal reflection
+**Deliverable:** Case study + 12-point prevention checklist
 
 ---
 
-## 🔗 Important Links
+## Important Links
 
 ### Tools & Platforms Used
-- **GitHub:** [github.com/nandini10056]
+- **GitHub:** [https://github.com/nandini10056/digital-literacy-project.git]
 - **LinkedIn:** [linkedin.com/in/nandini-gupta-55347b381](https://linkedin.com)
 - **Kaggle:** [kaggle.com/[nandini10056]](https://kaggle.com)
 - **Codechef:** [www.codechef.com/users/cast_noble_07]
@@ -152,7 +152,7 @@ Created a comprehensive "Stay Safe Online" guide with 12 specific, actionable ti
 
 ---
 
-## 🎯 Key Learnings
+## Key Learnings
 
 Through this project, I have developed practical competencies in:
 
@@ -165,22 +165,22 @@ Through this project, I have developed practical competencies in:
 
 ---
 
-## 📄 Submission Details
+## Submission Details
 
 **Submission Mode:** GitHub Repository Link via VITyarthi Portal  
-**Repository URL:** [To be added: github.com/your-username/digital-literacy-project]  
-**Submission Date:** 28.03.2026  
+**Repository URL:** [https://github.com/nandini10056/digital-literacy-project.git]  
+**Submission Date:** 29.03.2026  
 
 
 ---
 
-## ✅ Academic Integrity Statement
+## Academic Integrity Statement
 
 All work in this repository is original and completed independently. External sources, tools, and platforms have been properly cited in the project report. Screenshots are from my own accounts. Where tools were used to understand concepts, the final write-ups reflect my personal understanding and experience.
 
 ---
 
-## 📧 Contact Information
+## Contact Information
 
 **Student Email:** [nandini.25bhi@vitbhopal.ac.in]  
 **LinkedIn:** https://www.linkedin.com/in/nandini-gupta-55347b381?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
@@ -188,7 +188,7 @@ All work in this repository is original and completed independently. External so
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 I would like to thank the faculty of CSE0001 - Digital Literacy at VIT Bhopal University for designing this comprehensive, practical project that goes beyond theoretical knowledge to build real-world digital competencies.
 
